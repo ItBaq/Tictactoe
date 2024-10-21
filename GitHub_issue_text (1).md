@@ -15,21 +15,21 @@ Hello everyone! Please use this checklist over the next few weeks as you go thro
 ***
 
 Week 2: Your first repository
-- [ x] 1. Install GitHub desktop and connect it to your GitHub account
-- [x ] 2. Create a public repository and add a readme file
-- [x ] 3. Publish the repository to GitHub
-- [x ] 4. Add a new file in your local repository, commit the file addition, and push it to the remote repository on GitHub
+- [x] 1. Install GitHub desktop and connect it to your GitHub account
+- [x] 2. Create a public repository and add a readme file
+- [x] 3. Publish the repository to GitHub
+- [x] 4. Add a new file in your local repository, commit the file addition, and push it to the remote repository on GitHub
 - [x] 5. Modify the new file (or the Readme file), commit the change, and push it to the remote repository on GitHub
-- [?] 6. Comment on this issue with a link to your repository
+- [X] 6. Comment on this issue with a link to your repository
 
 Week 4: Rmarkdown
-- [ ] 1. Create a new public repository on GitHub Desktop and add a readme file.
-- [ ] 2. Publish the repository to GitHub
-- [ ] 3. Open RStudio and create a new project in an existing directory (the directory of your repository)
-- [ ] 4. Download the file "R_Rstudio_Rmarkdown.Rmd" from the week 4 "Practical: R markdown" section on MyAberdeen and save it in your project
-- [ ] 5. Work through the Rmarkdown file, remembering to commit and push your changes to the remote repository on GitHub
-- [ ] 6. Optional: if you have questions you'd like to discuss with your group members, create issues on GitHub and let them know
-- [ ] 7. Comment on this issue with a link to your new repository
+- [X] 1. Create a new public repository on GitHub Desktop and add a readme file.
+- [X] 2. Publish the repository to GitHub
+- [X] 3. Open RStudio and create a new project in an existing directory (the directory of your repository)
+- [X] 4. Download the file "R_Rstudio_Rmarkdown.Rmd" from the week 4 "Practical: R markdown" section on MyAberdeen and save it in your project
+- [X] 5. Work through the Rmarkdown file, remembering to commit and push your changes to the remote repository on GitHub
+- [X] 6. Optional: if you have questions you'd like to discuss with your group members, create issues on GitHub and let them know
+- [X] 7. Comment on this issue with a link to your new repository
 
 Week 5: Practical: reading data in R
 - [ ] 1. Create a new public repository on GitHub Desktop and add a readme file. This will be the main repository for the R material from this course, so give it a good name :smiley:
