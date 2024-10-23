@@ -32,14 +32,14 @@ Week 4: Rmarkdown
 - [X] 7. Comment on this issue with a link to your new repository
 
 Week 5: Practical: reading data in R
-- [ ] 1. Create a new public repository on GitHub Desktop and add a readme file. This will be the main repository for the R material from this course, so give it a good name :smiley:
-- [ ] 2. Publish the repository to GitHub
-- [ ] 3. Open RStudio and create a new project in an existing directory (the directory of your repository)
-- [ ] 4. Create an appropriate folder structure according to the good coding practices discussed in week 5
-- [ ] 5. Download the data files and Rmarkdown file from the week 5 "Practical: reading data in R" section on MyAberdeen and save them in the appropriate folders in your project
-- [ ] 6. Work through the Rmarkdown file, remembering to commit and push your changes to the remote repository on GitHub
-- [ ] 7. Optional: if you have questions you'd like to discuss with your collaborators, create issues on GitHub and let them know
-- [ ] 8. Comment on this issue with a link to your new repository
+- [X] 1. Create a new public repository on GitHub Desktop and add a readme file. This will be the main repository for the R material from this course, so give it a good name :smiley:
+- [X] 2. Publish the repository to GitHub
+- [X] 3. Open RStudio and create a new project in an existing directory (the directory of your repository)
+- [X] 4. Create an appropriate folder structure according to the good coding practices discussed in week 5
+- [X] 5. Download the data files and Rmarkdown file from the week 5 "Practical: reading data in R" section on MyAberdeen and save them in the appropriate folders in your project
+- [X] 6. Work through the Rmarkdown file, remembering to commit and push your changes to the remote repository on GitHub
+- [X] 7. Optional: if you have questions you'd like to discuss with your collaborators, create issues on GitHub and let them know
+- [X] 8. Comment on this issue with a link to your new repository
 
 Week 6-10: Your project
 Now that you have become familiar with GitHub, you can start using it to prepare your report, and get help and feedback from your group members.
